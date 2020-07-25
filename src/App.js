@@ -86,7 +86,7 @@ function App() {
     <div className="wrapper">
       
       <div className="sky">
-        <img id="click" src="https://www.hallerandhug.com/wp-content/uploads/2016/04/clickhere.png" />
+        <img id="click" src="https://www.hallerandhug.com/wp-content/uploads/2016/04/clickhere.png"  alt="click here"/>
       </div>
       <div className="earth">
       <p id="name">By Hamza Ali</p>
