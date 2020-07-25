@@ -10,7 +10,6 @@ function App() {
   const secondForeground = useRef(null);
   const aliceAnimation = useRef(null);
   const Runningman = useRef(null);
-  const reset_click= useRef(null);
  
 
   useEffect(() => {
